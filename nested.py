@@ -1,0 +1,1 @@
+f = open("tyui.txt", "x") 
